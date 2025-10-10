@@ -1,0 +1,27 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-10-10 00:02:13 +0000"
+    },
+    "done": true
+  },
+  "tfc:story/root": {
+    "criteria": {
+      "in_game_condition": "2025-10-10 00:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-10-10 00:02:14 +0000"
+    },
+    "done": false
+  },
+  "tfc:world/root": {
+    "criteria": {
+      "in_game_condition": "2025-10-10 00:02:13 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
